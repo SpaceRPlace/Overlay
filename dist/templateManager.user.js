@@ -1,6 +1,6 @@
 
 // ==UserScript==
-// @namespace		https://emlynlj.co.uk/spacescript
+// @namespace		emlynlj.co.uk
 // @downloadURL		https://github.com/emlynlj/TeamSpaceTemplateManager/raw/main/dist/templateManager.user.js
 // @updateURL		hhttps://github.com/emlynlj/TeamSpaceTemplateManager/raw/main/dist/templateManager.user.js
 // @match			https://new.reddit.com/r/place/*
