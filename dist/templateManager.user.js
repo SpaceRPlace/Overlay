@@ -13,7 +13,7 @@
 // @connect			*
 // @name			template-manager
 // @version			0.0.1
-// @description		Manages your templates on various canvas games
+// @description		WorldEdit from block game
 // @author			Script by LittleEndu, Mikarific, April, modified by @EmlynLJ on Discord / @EmlynSpace on Twitter
 // @license			MIT
 //
