@@ -1,24 +1,20 @@
 
 // ==UserScript==
-// @namespace		littleendu.xyz
-// @downloadURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
-// @updateURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
-// @match			https://pxls.space/
+// @namespace		https://emlynlj.co.uk/spacescript
+// @downloadURL		https://github.com/emlynlj/TeamSpaceTemplateManager/raw/main/dist/templateManager.user.js
+// @updateURL		hhttps://github.com/emlynlj/TeamSpaceTemplateManager/raw/main/dist/templateManager.user.js
 // @match			https://new.reddit.com/r/place/*
 // @match			https://www.reddit.com/r/place/*
 // @match			https://garlic-bread.reddit.com/embed*
 // @match			https://hot-potato.reddit.com/embed*
-// @match			https://www.twitch.tv/otknetwork/*
-// @match			https://9jjigdr1wlul7fbginbq7h76jg9h3s.ext-twitch.tv/*
-// @match			https://place.ludwig.gg/*
 // @grant			GM.xmlHttpRequest
 // @grant			GM.setValue
 // @grant			GM.getValue
 // @connect			*
 // @name			template-manager
-// @version			0.5.13
+// @version			0.0.1
 // @description		Manages your templates on various canvas games
-// @author			LittleEndu, Mikarific, April
+// @author			Script by LittleEndu, Mikarific, April, modified by @EmlynLJ on Discord / @EmlynSpace on Twitter
 // @license			MIT
 //
 // Created with love using Gorilla
