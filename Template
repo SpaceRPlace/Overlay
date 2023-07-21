@@ -1,12 +1,12 @@
 {
-"faction": "Spaceflight Test",
+"faction": "Spaceflight Place",
 "contact": "https://discord.gg/X5g9yyWmbM",
 "notifications": "",
 "templates": [
 {
-"name": "Spaceflight Test",
+"name": "Spaceflight Overlay",
 "sources": [
-"https://raw.githubusercontent.com/emlynlj/TeamSpaceTemplateManager/main/alt_text.png"
+"https://raw.githubusercontent.com/SpaceRPlace/Overlay/main/alt_text.png"
 ],
 "x": 1244,
 "y": 366
