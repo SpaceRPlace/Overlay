@@ -6,7 +6,7 @@
 {
 "name": "Spaceflight Overlay",
 "sources": [
-"s://github.com/SpaceRPlace/Overlay/raw/main/newcanvas.png"
+"https://github.com/SpaceRPlace/Overlay/raw/main/newcanvas2.png"
 ],
 "x": 1790,
 "y": 326
