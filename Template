@@ -1,15 +1,15 @@
 {
 "faction": "Spaceflight Place",
-"contact": "https://discord.gg/X5g9yyWmbM",
+"contact": "https://discord.gg/R2RqydRxEm",
 "notifications": "",
 "templates": [
 {
 "name": "Spaceflight Overlay",
 "sources": [
-"https://github.com/SpaceRPlace/Overlay/raw/main/newcanvas.png"
+"https://raw.githubusercontent.com/CactiStaccingCrane/spacexplace/main/blue_2.png"
 ],
-"x": 715,
-"y": 88
+"x": 0,
+"y": 633
 }
 ],
 "whitelist": [],
