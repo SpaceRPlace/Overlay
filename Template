@@ -6,10 +6,10 @@
 {
 "name": "Spaceflight Overlay",
 "sources": [
-"https://github.com/SpaceRPlace/Overlay/raw/main/finalfinal(1).png"
+"https://github.com/SpaceRPlace/Overlay/raw/main/output-onlinepngtools-2.png"
 ],
-"x": 0,
-"y": 632
+"x": 30,
+"y": 243
 }
 ],
 "whitelist": [],
