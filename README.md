@@ -1,3 +1,6 @@
+# R/place 2023 is now over! Thanks for participating!
+
+
 # Template Manager
 ### - script by r/osuplace, edited by Emlyn/Kranet (@EmlynLJ)
 
